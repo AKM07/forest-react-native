@@ -1,0 +1,2 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const TOGGLE_LOGIN = 'TOGGLE_LOGIN';
